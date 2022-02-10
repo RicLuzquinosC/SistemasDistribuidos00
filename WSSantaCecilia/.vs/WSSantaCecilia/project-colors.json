@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6ad8c90-cae7-4bab-b1cd-aa09b62bcafe": {
+      "ProjectGuid": "f6ad8c90-cae7-4bab-b1cd-aa09b62bcafe",
+      "DisplayName": "WSSantaCecilia",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
